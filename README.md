@@ -13,8 +13,10 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 Для связи со мной:
-![Telegram](https://img.shields.io/badge/telegram-blue?style=flat-square&logo=telegram)
 
+<a href="your-linkedin-URL">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 <!--
 **viplod/viplod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
