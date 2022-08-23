@@ -11,6 +11,10 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+Для связи со мной:
+![Telegram](https://img.shields.io/badge/telegram-blue?style=flat-square&logo=telegram)
+
 <!--
 **viplod/viplod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
