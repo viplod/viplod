@@ -14,7 +14,7 @@
 
 Для связи со мной:
 
-<a href="your-linkedin-URL">
+<a href="https://t.me/viplod">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
 </a>
 <!--
